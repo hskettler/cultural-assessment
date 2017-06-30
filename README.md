@@ -10,6 +10,8 @@ materials we have available in physical collections - special collections, insti
 -and in decisions about how/when/whether we publicize collections and make them discoverable.
 with the understanding that biases and assumptions have concrete impact on digital library collections and services.
 
+_All_ work presented here is the result of a collaborative effort in coordination with the Digital Library Federation.
+
 ## What's here?
 
 What you find here will be project elements that are open for dicussions, commenting and augmentation. We actively solicit feedback on a rolling bases and hope to integrate any alterations and changes twice a year as time/funding provides.
@@ -31,3 +33,7 @@ You may provide feedback in three ways:
 1.  Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/hskettler/cultural-assessment/issues) in existing issues, or start a new conversation by opening a new issue
 2.  Direct changes and line edits to the content may be submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request) by clicking "Edit this page". You do not need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found [here](https://help.github.com/articles/creating-a-pull-request/). Open pull requests for the proposed guidance can be found [here](https://github.com/hskettler/cultural-assessment/pulls).
 3.  Send your content suggestions or proposed revisions to hannahskettler at gmail dot com. Please note that all comments received will be posted publicly on this page.
+
+## Code of Conduct
+The Digital Library Federation (DLF) is committed to creating and supporting inclusive, diverse, and equitable communities of practice. We strive to be a welcoming organization and the focal point for a digital library culture that is anti-oppression, recognizes intersectionalities, and works compassionately across difference. Together, DLF members advance research, learning, social justice, and the public good through the creative design and wise application of digital library technologies. We know that the best problem-solving and critical thinking happens when people with a wide array of experiences and perspectives come together to work in comfort and safety as peers. We therefore expect contributors to this Repository to help create thoughtful and respectful environments where that interaction can take place.
+Read more about the DLF Code of Conduct [here](https://www.diglib.org/about/code-of-conduct/).
