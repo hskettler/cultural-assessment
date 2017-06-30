@@ -182,14 +182,13 @@ May/June 2017 DRAFT</h2>
   <li>Does the organization have a dissemination strategy and/or user access plan and do the proposed resources fit that plan? </li>
   <li>Has this item been reviewed for copyright and other intellectual property rights?</li>
     <ul>
-      <li>Are you willing to pursue the copyright to make the collection more representative of a larger collection? Of demographics? Why / not?</li>
-    </ul>
+      <li>Are you willing to pursue the copyright to make the collection more representative of a larger collection? Of demographics? Why / not?</li>    </ul>
 </ul>
  
 <h3>Acting on Decision</h3>
 <p>After the selection decision, someone or some mechanism will take steps to acquire, digitize, license, or otherwise make the resource a part of the institutional/organizational collections. Often, these actions need to be prioritized and sent to a specialized workflow. For instance, a digitization request, once approved, may be routed through a special collections workflow to ensure appropriate preservation measures.</p>
  
-    <h4>Questions to ask:</h4>
+<h4>Questions to ask:</h4>
 <ul>
   <li>What is prioritized for acquisition and why?</li>
   <li>Who decides (an why?) and are the decisions documented?</li>
@@ -238,10 +237,9 @@ d<p>Document decisions about what is selected for acquisition in a place where p
 </ul>
  
  
-<h2>Text Analysis of DLF CA Selection Workflow Submissions</h2>
-<h3>A Summary</h3>
+<h2>Text Analysis of DLF CA Selection Workflow Submissions : A Summary</h2>
 
-<h4>Goals/Objectives</h4>
+<h3>Goals/Objectives</h3>
  
 <p>The Internet Archive proposal is to bring 4 million of the most beloved and important books to learners by helping all libraries become digital libraries. The 100&Change vision includes collaborating with Digital Library Federation librarians on the Inclusive Curation Project to select four million books to scan. Our goal is to design a community-responsive, transparent form of book selection that can ultimately serve as a model for creating more diverse and democratized digital collections everywhere.</p>
 
@@ -261,7 +259,7 @@ d<p>Document decisions about what is selected for acquisition in a place where p
 
 <p><strong>Note:</strong> The initial draft of the Selection Workflow Framework was generated using the above demographic. We recognize that there are gaps in the cultural heritage institution representation and moved forward with what we had. We will strongly encourage feedback from missing sectors, as we have throughout the processes. The group will attempt to directly target specific institutions/people if a general call is unsuccessful with particular focus on public libraries, museums and smaller historical societies.</p>
 
-<h4>Questions that arose and Observations during analysis:</h4>
+<h3>Questions that arose and Observations during analysis:</h3>
 <p>Most people answered the questionnaire as if they were digitizing collections -- selection has already happened?<p>
 <p>No Museums responded - all initial respondents are libraries (might be because of our heavy focus on libraries/archives in the call out to specified listservs with which the group participants are connected).</p>
 <p>There’s a lot of format and preservation criteria, and not about whether one thing is more important than others or why it’s necessary to select.</p>
@@ -270,7 +268,7 @@ d<p>Document decisions about what is selected for acquisition in a place where p
 <p>Were we asking the right questions?</p>
 <p>Do we need a section where we get specific about the position titles of those making the recommendations and who is making the decisions? Or perhaps our sample is not big enough to do this effectively? </p>
 
-<h4>Analysis</h4>
+<h3>Analysis</h3>
  
 <h4>Institutions that identified the depositor (donor, curator, other) or mechanism for selection: </h4>
  
