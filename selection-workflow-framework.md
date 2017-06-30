@@ -214,7 +214,7 @@ May/June 2017 DRAFT</h2>
 </ul>
  
 <h3>Documenting Selection Decisions</h3>
-d<p>Document decisions about what is selected for acquisition in a place where people (as defined by the organization) can view it and refer to it. Some institutions do not share the results of their selection decisions.</p>
+<p>Document decisions about what is selected for acquisition in a place where people (as defined by the organization) can view it and refer to it. Some institutions do not share the results of their selection decisions.</p>
  
 <h4>Examples:</h4>
 <ul>
@@ -269,7 +269,6 @@ d<p>Document decisions about what is selected for acquisition in a place where p
 <p>Do we need a section where we get specific about the position titles of those making the recommendations and who is making the decisions? Or perhaps our sample is not big enough to do this effectively? </p>
 
 <h3>Analysis</h3>
- 
 <h4>Institutions that identified the depositor (donor, curator, other) or mechanism for selection: </h4>
  
 <p><strong>Summary:</strong> Selection and digitization submissions originate from a mix of donors or internal library staff, not by designated selection committees. </p>
