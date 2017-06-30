@@ -111,7 +111,8 @@ May/June 2017 DRAFT</h2>
     </ul>
   <li>Does the organization have funding to properly digitize and/or manage this content over time?</li>
   <li>What is the feedback mechanism for possible resource? With whom is the feedback communicated? Does that preference certain communities, modes of learning, ways of knowing, or communication styles?</li>
- 
+</ul> 
+
 <h3>“Test fit” against priorities and policies</h3>
 <p>An individual or group with selection responsibilities compares selected resources to existing institutional/organizational priorities and collection development, digitization, or other relevant policies.</p>
 <p>Often groups/committees develop policies and criteria against which selected resources are measured. These may be formal written documentation or not written down/informal.</p>
@@ -144,7 +145,7 @@ May/June 2017 DRAFT</h2>
     </ul>
   <li>Do selection guidelines and practices (see above) include historically marginalized communities?</li>
     <ul>
-      <li>Are you following appropriate litigation regarding materials? EX NAGPRA for Native People’s material</li>
+      <li>Are you following appropriate litigation regarding materials? EX NAGPRA for Native People’s material</li>   
     </ul>
   <li>Who are you collecting for and what do they need?</li>
   <li>Will resources conform to ADA and web accessibility standards and be made maximally accessible for patrons/community members with disabilities?</li>
@@ -161,7 +162,7 @@ May/June 2017 DRAFT</h2>
 <h3>Decision-making</h3>
 <p>Selection requires an individual or group with authority to make final decisions. This is often the point at which a copyright review is performed and staffing resources and capacity are considered. Often the final decision is made by someone who is senior or holds highest authority within an organizational unit. Alternately, selections may be “automatic” and employ algorithms or patron use to make decisions about what to select (e.g. patron-driven or evidence-based acquisition processes). </p>
  
-    <h4>Questions to ask:</h4>
+<h4>Questions to ask:</h4>
 <ul>
   <li>Who decides and why? </li>
   <li>Is the evaluation process clearly defined?</li>
