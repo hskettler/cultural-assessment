@@ -7,15 +7,15 @@ February, 2017</h3>
 
 <ol><h2>Table of Contents</h2>
 <li><a href="#collections-publicizing-and-discoverability">Collection Publicizing and Discoverability</a></li>
-<li><a href="cultural-assessment">Cultural Assessment</a></li>
-<li><a href="cultural-competency">Cultural Competency</a></li>
-<li><a href="cultural-competency-culturally-responsive-methods-and-tools">Cultural Competency: Culturally Responsive Methods and Tools</a></li>
-<li><a href="cultural-competency-repositories-and-systems">Cultural Competency: Repositories and Systems</a></li>
-<li><a href="cultural-competency-users-access-and-communities">Cultural Competency: Users, Access, and Communities</a></li>
-<li><a href="digitization-and-preservation">Digitization and Preservation</a></li>
-<li><a href="ehtical-guidelines-protocols-and-legal-instruments">Ethical Guidelines, Protocols, and Legal Instruments</a></li>
-<li><a href="metdata-and-description-practices">Metadata and Description Practices</a></li>
-</li><a href="selection-processes">Selection Processes</a></li>
+<li><a href="#cultural-assessment">Cultural Assessment</a></li>
+<li><a href="#cultural-competency">Cultural Competency</a></li>
+<li><a href="#cultural-competency-culturally-responsive-methods-and-tools">Cultural Competency: Culturally Responsive Methods and Tools</a></li>
+<li><a href="#cultural-competency-repositories-and-systems">Cultural Competency: Repositories and Systems</a></li>
+<li><a href="#cultural-competency-users-access-and-communities">Cultural Competency: Users, Access, and Communities</a></li>
+<li><a href="#digitization-and-preservation">Digitization and Preservation</a></li>
+<li><a href="#ethical-guidelines-protocols-and-legal-instruments">Ethical Guidelines, Protocols, and Legal Instruments</a></li>
+<li><a href="#metdata-and-description-practices">Metadata and Description Practices</a></li>
+<li><a href="#selection-processes">Selection Processes</a></li>
 </ol>
 
 <h2>Collection Publicizing and Discoverability</h2>
