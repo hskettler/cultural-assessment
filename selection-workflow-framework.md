@@ -106,8 +106,7 @@ May/June 2017 DRAFT</h2>
   <li>How is the proposal information shared or communicated? Does that preference certain modes of learning, ways of knowing, or communication styles?</li>
   <li>What is the perceived importance of the material? Are multiple voices/perspectives considered?</li>
   <li>Is discussion open to a wider group/forum?</li>
-    <ul>
-      <li>Are decision-makers representatives of a cultural group or organization?</li>
+    <ul>      <li>Are decision-makers representatives of a cultural group or organization?</li>
       <li>How is the cultural group defined or identified?</li>
     </ul>
   <li>Does the organization have funding to properly digitize and/or manage this content over time?</li>
@@ -159,7 +158,7 @@ May/June 2017 DRAFT</h2>
     </ul>
 <ul>
  
-<h4>Decision-making</h4>
+<h3>Decision-making</h3>
 <p>Selection requires an individual or group with authority to make final decisions. This is often the point at which a copyright review is performed and staffing resources and capacity are considered. Often the final decision is made by someone who is senior or holds highest authority within an organizational unit. Alternately, selections may be “automatic” and employ algorithms or patron use to make decisions about what to select (e.g. patron-driven or evidence-based acquisition processes). </p>
  
     <h4>Questions to ask:</h4>
