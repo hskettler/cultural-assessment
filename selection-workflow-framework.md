@@ -68,7 +68,7 @@ May/June 2017 DRAFT</h2>
 <h3>Identification of Resource/Need</h3>
 <p>When evaluating pools of resources, certain resources are identified and may be shared and discussed. Institutions may also accept resource requests from patrons, community members, funding organizations, content or subject specialists. The selection of some types of resources are mandated by institutional policies or statutes, and are therefore more easily identified. In some organizations, anyone can identify resources to select, and in other organizations, this process is limited to certain Curators.</p>
  
-   <h4>Questions to ask:</h4>
+<h4>Questions to ask:</h4>
 <ul>
   <li>Are you under contract to maintain certain resources?</li>
     <ul>
@@ -100,10 +100,11 @@ May/June 2017 DRAFT</h2>
 <h3>Proposing of Possible Resource with Decision-makers</h3>
 <p>Sharing and discussion of possible resources that have been identified with individuals, groups, or committees who have selection responsibilities and/or are authorized to make decisions. Often these are senior administration, department heads, special collections staff, digitization specialists, and archives staff. The resources may be communicated via a project proposal form, list, or reporting tool. </p>
  
-    <h4>Questions to ask:</h4>
+  <h4>Questions to ask:</h4>
 <ul>
   <li>What information is shared or communicated through a proposal process? Is it enough information for the decision-makers to come to a decision? (see above)</li>
-  <li>How is the proposal information shared or communicated? Does that preference certain modes of learning, ways of knowing, or communication styles?</li>
+
+<li>How is the proposal information shared or communicated? Does that preference certain modes of learning, ways of knowing, or communication styles?</li>
   <li>What is the perceived importance of the material? Are multiple voices/perspectives considered?</li>
   <li>Is discussion open to a wider group/forum?</li>
     <ul>      <li>Are decision-makers representatives of a cultural group or organization?</li>
@@ -157,7 +158,7 @@ May/June 2017 DRAFT</h2>
           <li>What collections are privileged and why? (as it relates to the proposed resource)</li>
         </ul>
     </ul>
-<ul>
+</ul>
  
 <h3>Decision-making</h3>
 <p>Selection requires an individual or group with authority to make final decisions. This is often the point at which a copyright review is performed and staffing resources and capacity are considered. Often the final decision is made by someone who is senior or holds highest authority within an organizational unit. Alternately, selections may be “automatic” and employ algorithms or patron use to make decisions about what to select (e.g. patron-driven or evidence-based acquisition processes). </p>
@@ -271,7 +272,7 @@ d<p>Document decisions about what is selected for acquisition in a place where p
 
 <h4>Analysis</h4>
  
-<p>Institutions that identified the depositor (donor, curator, other) or mechanism for selection: </p>
+<h4>Institutions that identified the depositor (donor, curator, other) or mechanism for selection: </h4>
  
 <p><strong>Summary:</strong> Selection and digitization submissions originate from a mix of donors or internal library staff, not by designated selection committees. </p>
  
@@ -284,7 +285,8 @@ d<p>Document decisions about what is selected for acquisition in a place where p
 <p>“Several librarians, including the collection development coordinator, digital projects coordinator, and liaisons, keep a lookout for documents...”</p>
 <p>“Many of our digital collections currently are a response to external pressures rather than being initiated from within the Libraries at this point, largely due to funding constraints.”</p>
 <p><em>Outlier:</em> “We are now on a yearly cycle where we interview each curator, gather their top wishes for digital projects, and match that to our capacity for the year...This capacity is 60% of our available time. We leave 40% of our time for unscheduled projects throughout the year. We use broad categories of Metdata [sic], Digitization, and Project Management, to assess our capacity.“</p>
-<p>Are decisions based on published/public policies?</p>
+
+<h4>Are decisions based on published/public policies?</h4>
  
 <p><strong>Summary:</strong> The majority of institutions are not relying on codified, published policies that govern selection.  </p>
  
@@ -293,7 +295,7 @@ d<p>Document decisions about what is selected for acquisition in a place where p
 <p>“Selection process to ensure collections align with campus teaching, learning and research needs and our ability to provide long-term access and support."</p>
 <p>“Relationship to Other Digital Collections: it is important to contribute to “critical mass” of digital collections in the subject whenever possible. By complementing existing online collections, the value of the collection will enhance the subject area and the user experience.”</p>
  
-<p>Are decisions based on required resources (space, staff, format)?</p>
+<h4>Are decisions based on required resources (space, staff, format)?</h4>
  
 <p><strong>Summary:</strong> A majority of institutions prioritize decisions based on staff or space capacity, not on collecting priority. Most consider the institution’s collection strengths and importance of the materials prior to accepting new materials.</p>
  
@@ -307,7 +309,7 @@ d<p>Document decisions about what is selected for acquisition in a place where p
 <p>“Items/collections that come with their own (usually external grant) funding are prioritized over those that don’t.” </p>
 <p>“The criteria for choosing to proceed with including or digitizing a requested item/collection have to do with our infrastructure and capacity to do so rather than a philosophical reason to preserve or promote access to the materials.”</p>
  
-<p>Does an individual or committee make the final decision?</p>
+<h4>Does an individual or committee make the final decision?</h4>
  
 <p><strong>Summary:</strong> A majority of respondents indicate that selection and digitization decisions are made by individuals, not by appointed committees. </p>
  
@@ -316,7 +318,7 @@ d<p>Document decisions about what is selected for acquisition in a place where p
 <p>“We moved from a committee who would review proposals from curators and assess based on certain criteria (preservation, scholarship, etc.) to being proactive.”</p>
 <p>“Requests are routed to the Assistant Deans for Distinctive Collections and Digital Initiatives & Discovery Services to determine feasibility.”</p>
  
-<p<Is the selection process based on any specific priorities?</p>
+<h4>Is the selection process based on any specific priorities?</h4>
  
 <p><strong>Summary:</strong> Selections are prioritized by appraised value, fragility or rarity of materials, and materials that are already part of the institution’s collections, and most institutions are not actively seeking new materials. Many collection agendas are dictated by Collection Development Policies that reflect physical collections and do not stand on their own as born-digital or digital only collection policies - the decision process for selection is either not documented more granularly than at the institution level, or we need to specify more granular selection practices.</p>
  
