@@ -1,4 +1,3 @@
-
 <h1>Annotated Bibliography for Cultural Assessment of Digital Collections</h1>
 <h3>Compiled by the Cultural Assessment Working Group<br/>
 of the Digital Library Federation (DLF) Assessment Interest Group<br/>
@@ -15,7 +14,7 @@ February, 2017</h3>
 <li><a href="#cultural-competency-users-access-and-communities">Cultural Competency: Users, Access, and Communities</a></li>
 <li><a href="#digitization-and-preservation">Digitization and Preservation</a></li>
 <li><a href="#ethical-guidelines-protocols-and-legal-instruments">Ethical Guidelines, Protocols, and Legal Instruments</a></li>
-<li><a href="#metdata-and-description-practices">Metadata and Description Practices</a></li>
+<li><a href="#metadata-and-description-practices">Metadata and Description Practices</a></li>
 <li><a href="#selection-processes">Selection Processes</a></li>
 </ol>
 
